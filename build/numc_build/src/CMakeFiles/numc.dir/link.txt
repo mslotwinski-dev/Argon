@@ -1,2 +1,0 @@
-D:\msys64\mingw64\bin\ar.exe qc libnumc.a CMakeFiles/numc.dir/utility/log.cpp.obj
-D:\msys64\mingw64\bin\ranlib.exe libnumc.a

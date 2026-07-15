@@ -1,3 +1,0 @@
-D:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\example_tensors.dir/objects.a
-D:\msys64\mingw64\bin\ar.exe qc CMakeFiles\example_tensors.dir/objects.a @CMakeFiles\example_tensors.dir\objects1.rsp
-D:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\example_tensors.dir/objects.a -Wl,--no-whole-archive -o example_tensors.exe -Wl,--out-implib,libexample_tensors.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\example_tensors.dir\linkLibs.rsp

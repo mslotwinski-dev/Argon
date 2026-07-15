@@ -1,3 +1,0 @@
-D:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\Argon.dir/objects.a
-D:\msys64\mingw64\bin\ar.exe qc CMakeFiles\Argon.dir/objects.a @CMakeFiles\Argon.dir\objects1.rsp
-D:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Argon.dir/objects.a -Wl,--no-whole-archive -o Argon.exe -Wl,--out-implib,libArgon.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Argon.dir\linkLibs.rsp

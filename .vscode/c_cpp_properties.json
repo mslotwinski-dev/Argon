@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Compiler",
+            "compilerPath": "D:\\msys64\\mingw64\\bin\\g++.exe",
+            "intelliSenseMode": "gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:\\msys64\\mingw64/include/**",
+                "D:\\msys64\\mingw64/include/c++/**",
+                "D:\\msys64\\mingw64\\include\\**",
+                "D:\\msys64\\mingw64\\include\\c++\\**",
+                "E:\\GitHub\\Entropy Logs\\NumC\\src\\**",
+                "E:\\GitHub\\Entropy Logs\\NumC\\src\\**\\**"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+            
+        }
+    ],
+    "version": 4
+}

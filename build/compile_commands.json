@@ -1,0 +1,68 @@
+[
+{
+  "directory": "E:/Fizyka Techniczna/Programowanie/Argon/build",
+  "command": "D:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Argon.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Argon.dir\\main.cpp.obj -c \"E:\\Fizyka Techniczna\\Programowanie\\Argon\\main.cpp\"",
+  "file": "E:/Fizyka Techniczna/Programowanie/Argon/main.cpp",
+  "output": "CMakeFiles/Argon.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/Fizyka Techniczna/Programowanie/Argon/build",
+  "command": "D:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Argon.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Argon.dir\\src\\atom.cpp.obj -c \"E:\\Fizyka Techniczna\\Programowanie\\Argon\\src\\atom.cpp\"",
+  "file": "E:/Fizyka Techniczna/Programowanie/Argon/src/atom.cpp",
+  "output": "CMakeFiles/Argon.dir/src/atom.cpp.obj"
+},
+{
+  "directory": "E:/Fizyka Techniczna/Programowanie/Argon/build",
+  "command": "D:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Argon.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Argon.dir\\src\\simulation.cpp.obj -c \"E:\\Fizyka Techniczna\\Programowanie\\Argon\\src\\simulation.cpp\"",
+  "file": "E:/Fizyka Techniczna/Programowanie/Argon/src/simulation.cpp",
+  "output": "CMakeFiles/Argon.dir/src/simulation.cpp.obj"
+},
+{
+  "directory": "E:/Fizyka Techniczna/Programowanie/Argon/build",
+  "command": "D:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Argon.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Argon.dir\\src\\space.cpp.obj -c \"E:\\Fizyka Techniczna\\Programowanie\\Argon\\src\\space.cpp\"",
+  "file": "E:/Fizyka Techniczna/Programowanie/Argon/src/space.cpp",
+  "output": "CMakeFiles/Argon.dir/src/space.cpp.obj"
+},
+{
+  "directory": "E:/Fizyka Techniczna/Programowanie/Argon/build",
+  "command": "D:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Argon.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Argon.dir\\src\\state.cpp.obj -c \"E:\\Fizyka Techniczna\\Programowanie\\Argon\\src\\state.cpp\"",
+  "file": "E:/Fizyka Techniczna/Programowanie/Argon/src/state.cpp",
+  "output": "CMakeFiles/Argon.dir/src/state.cpp.obj"
+},
+{
+  "directory": "E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/src",
+  "command": "D:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/numc.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\numc.dir\\utility\\log.cpp.obj -c \"E:\\GitHub\\Entropy Logs\\NumC\\src\\utility\\log.cpp\"",
+  "file": "E:/GitHub/Entropy Logs/NumC/src/utility/log.cpp",
+  "output": "numc_build/src/CMakeFiles/numc.dir/utility/log.cpp.obj"
+},
+{
+  "directory": "E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/examples",
+  "command": "D:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/example_complex.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\example_complex.dir\\complex.cpp.obj -c \"E:\\GitHub\\Entropy Logs\\NumC\\examples\\complex.cpp\"",
+  "file": "E:/GitHub/Entropy Logs/NumC/examples/complex.cpp",
+  "output": "numc_build/examples/CMakeFiles/example_complex.dir/complex.cpp.obj"
+},
+{
+  "directory": "E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/examples",
+  "command": "D:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/example_vectors.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\example_vectors.dir\\vectors.cpp.obj -c \"E:\\GitHub\\Entropy Logs\\NumC\\examples\\vectors.cpp\"",
+  "file": "E:/GitHub/Entropy Logs/NumC/examples/vectors.cpp",
+  "output": "numc_build/examples/CMakeFiles/example_vectors.dir/vectors.cpp.obj"
+},
+{
+  "directory": "E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/examples",
+  "command": "D:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/example_functions.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\example_functions.dir\\functions.cpp.obj -c \"E:\\GitHub\\Entropy Logs\\NumC\\examples\\functions.cpp\"",
+  "file": "E:/GitHub/Entropy Logs/NumC/examples/functions.cpp",
+  "output": "numc_build/examples/CMakeFiles/example_functions.dir/functions.cpp.obj"
+},
+{
+  "directory": "E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/examples",
+  "command": "D:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/example_tensors.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\example_tensors.dir\\tensors.cpp.obj -c \"E:\\GitHub\\Entropy Logs\\NumC\\examples\\tensors.cpp\"",
+  "file": "E:/GitHub/Entropy Logs/NumC/examples/tensors.cpp",
+  "output": "numc_build/examples/CMakeFiles/example_tensors.dir/tensors.cpp.obj"
+},
+{
+  "directory": "E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/examples",
+  "command": "D:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/example_plots.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\example_plots.dir\\plots.cpp.obj -c \"E:\\GitHub\\Entropy Logs\\NumC\\examples\\plots.cpp\"",
+  "file": "E:/GitHub/Entropy Logs/NumC/examples/plots.cpp",
+  "output": "numc_build/examples/CMakeFiles/example_plots.dir/plots.cpp.obj"
+}
+]

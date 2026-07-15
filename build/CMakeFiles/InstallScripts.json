@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/Fizyka Techniczna/Programowanie/Argon/build/cmake_install.cmake",
+		"E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/cmake_install.cmake",
+		"E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/src/cmake_install.cmake",
+		"E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/examples/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

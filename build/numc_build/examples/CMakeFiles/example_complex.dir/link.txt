@@ -1,0 +1,3 @@
+D:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\example_complex.dir/objects.a
+D:\msys64\mingw64\bin\ar.exe qc CMakeFiles\example_complex.dir/objects.a @CMakeFiles\example_complex.dir\objects1.rsp
+D:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\example_complex.dir/objects.a -Wl,--no-whole-archive -o example_complex.exe -Wl,--out-implib,libexample_complex.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\example_complex.dir\linkLibs.rsp

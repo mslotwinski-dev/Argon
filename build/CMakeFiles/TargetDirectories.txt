@@ -1,0 +1,15 @@
+E:/Fizyka Techniczna/Programowanie/Argon/build/CMakeFiles/Argon.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/CMakeFiles/edit_cache.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/CMakeFiles/rebuild_cache.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/CMakeFiles/edit_cache.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/CMakeFiles/rebuild_cache.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/src/CMakeFiles/numc.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/src/CMakeFiles/edit_cache.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/src/CMakeFiles/rebuild_cache.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/examples/CMakeFiles/example_complex.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/examples/CMakeFiles/example_vectors.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/examples/CMakeFiles/example_functions.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/examples/CMakeFiles/example_tensors.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/examples/CMakeFiles/example_plots.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/examples/CMakeFiles/edit_cache.dir
+E:/Fizyka Techniczna/Programowanie/Argon/build/numc_build/examples/CMakeFiles/rebuild_cache.dir
